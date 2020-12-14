@@ -6,3 +6,4 @@
 
 - https://en.wikipedia.org/wiki/Perceptron
 - https://en.wikipedia.org/wiki/NumPy
+- https://www.youtube.com/channel/UCmfo493VscYFe18rQsVMCdQ
